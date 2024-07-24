@@ -1,0 +1,22 @@
+inventory_management/
+├── config/
+│   └── database.php
+├── public/
+│   ├── index.php
+│   ├── login.php
+│   ├── logout.php
+│   └── dashboard.php
+├── includes/
+│   ├── header.php
+│   ├── footer.php
+│   └── navbar.php
+├── admin/
+│   ├── manage_users.php
+│   └── add_user.php
+├── stock_manager/
+│   ├── add_stock.php
+│   └── update_stock.php
+└── salesman/
+    ├── search_product.php
+    ├── checkout.php
+    └── print_bill.php
